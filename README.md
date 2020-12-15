@@ -1,2 +1,4 @@
-# hello-world
-# I am new at Github, I just started to learn it, to use it later during my road to learn ML.
+# Magdalena Madera - my Python and Machine Learning journal
+
+## About
+This is my repository, which will tracking my progress during learnign Python and Machine Learnig. I will add here all courses which I done and later all my codes and projects. 
